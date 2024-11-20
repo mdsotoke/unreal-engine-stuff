@@ -1,9 +1,6 @@
 # Unreal Engine Stamina Feature for Survival Mechanic  
 
-[url=https://postimg.cc/KKLFMMst][img]https://i.postimg.cc/KKLFMMst/REH.jpg[/img][/url]
-
-<a href="https://imgur.com/3WIXSsg"><img src="https://postimg.cc/KKLFMMst][img]https://i.postimg.cc/KKLFMMst/REH.jpg" title="source: imgur.com" /></a>
-
+![Stamina System Image](https://i.postimg.cc/KKLFMMst/REH.jpg)
 
 
 ## Overview  
