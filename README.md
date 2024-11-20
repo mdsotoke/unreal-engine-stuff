@@ -1,6 +1,6 @@
 # Unreal Engine 5.5 GASP Stats Feature for Survival Mechanic  
 
-[![REH.jpg](https://i.postimg.cc/hGZGN8LZ/REH.jpg)](https://postimg.cc/KKLFMMst)
+[![stats.jpg](https://i.postimg.cc/GtgdSj2Z/stats.jpg)](https://postimg.cc/0KSTzD7f)
 
 
 ## Overview  
