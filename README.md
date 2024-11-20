@@ -1,5 +1,9 @@
 # Unreal Engine Stamina Feature for Survival Mechanic  
 
+![stamina system](https://imgur.com/3WIXSsg)
+
+
+
 ## Overview  
 This repository contains Unreal Engine files that can be used to add a stamina feature in a game animation sample or GASP in Unreal Engine 5.5. This feature is designed to integrate a stamina mechanic into survival gameplay, where stamina serves as a key gameplay element. The use case involves tracking and managing stamina as a resource, directly impacting player abilities and creating a more immersive and challenging experience.  
 
