@@ -1,4 +1,4 @@
-# Unreal Engine 5.5 GASP Stamina Feature for Survival Mechanic  
+# Unreal Engine 5.5 GASP Stats Feature for Survival Mechanic  
 
 [![REH.jpg](https://i.postimg.cc/hGZGN8LZ/REH.jpg)](https://postimg.cc/KKLFMMst)
 
