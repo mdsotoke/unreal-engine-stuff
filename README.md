@@ -28,7 +28,8 @@ In a survival game, use the stamina feature to manage a player's energy during c
 
 ## System  
 <p align="center">
-  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/health.jpg">
+  <!-- tulisan href= itu untuk menaruh link hyperlink dari images -->
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/health.jpg"> 
     <img src="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/health.jpg" alt="Health" width="200" />
   </a>
   <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/stamina.jpg">
