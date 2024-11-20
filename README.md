@@ -28,17 +28,17 @@ In a survival game, use the stamina feature to manage a player's energy during c
 
 ## System  
 <p align="center">
-  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/health-file">
-    <img src="https://i.postimg.cc/1XBGZxFN/health.jpg" alt="Health" width="200" />
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/health.jpg">
+    <img src="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/health.jpg" alt="Health" width="200" />
   </a>
-  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/stamina-file">
-    <img src="https://i.postimg.cc/6qvJFTpF/stamina.jpg" alt="Stamina" width="200" />
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/stamina.jpg">
+    <img src="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/stamina.jpg" alt="Stamina" width="200" />
   </a>
-  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/starvation-file">
-    <img src="https://i.postimg.cc/Nj2dsRRg/starvation.jpg" alt="Starvation" width="200" />
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/starvation.jpg">
+    <img src="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/starvation.jpg" alt="Starvation" width="200" />
   </a>
-  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/energy-file">
-    <img src="https://i.postimg.cc/2S3Cys0R/energy.jpg" alt="Energy" width="200" />
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/energy.jpg">
+    <img src="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/images/energy.jpg" alt="Energy" width="200" />
   </a>
 </p>
 
