@@ -28,7 +28,7 @@ In a survival game, use the stamina feature to manage a player's energy during c
 
 ## System  
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=random_video_id">
+  <a href="https://pixeldrain.com/u/srXm6Y3j">
     <img src="https://raw.githubusercontent.com/mdsotoke/unreal-engine-stuff/main/images/health.jpg" alt="Health" width="200" />
   </a>
   <a href="https://www.youtube.com/watch?v=random_video_id">
