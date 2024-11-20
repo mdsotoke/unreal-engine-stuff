@@ -1,7 +1,6 @@
-# Unreal Engine 5.5 GASP Stats Feature for Survival Mechanic  
+# Unreal Engine Stamina Feature for Survival Mechanic  
 
-[![stats.jpg](https://i.postimg.cc/GtgdSj2Z/stats.jpg)](https://postimg.cc/0KSTzD7f)
-
+[![Banner](https://i.postimg.cc/GtgdSj2Z/stats.jpg)](https://postimg.cc/0KSTzD7f)
 
 ## Overview  
 This repository contains Unreal Engine files that can be used to add a stamina feature in a game animation sample or GASP in Unreal Engine 5.5. This feature is designed to integrate a stamina mechanic into survival gameplay, where stamina serves as a key gameplay element. The use case involves tracking and managing stamina as a resource, directly impacting player abilities and creating a more immersive and challenging experience.  
@@ -11,11 +10,7 @@ This repository contains Unreal Engine files that can be used to add a stamina f
 ## Installation  
 To use the files in this repository, you can clone it directly:
 
-
-
-git clone (https://github.com/mdsotoke/unreal-engine-stuff)
-
-
+git clone https://github.com/mdsotoke/unreal-engine-stuff.git
 
 
 Then, open the Unreal Engine project files in your preferred version of UE5.
@@ -31,9 +26,26 @@ After cloning the repository, open the project in Unreal Engine and begin explor
 ### Example Use Case  
 In a survival game, use the stamina feature to manage a player's energy during combat or exploration. For instance, running or performing actions may deplete stamina, requiring the player to rest or consume items to restore it.
 
+## System  
+<p align="center">
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/health-file">
+    <img src="https://i.postimg.cc/1XBGZxFN/health.jpg" alt="Health" width="200" />
+  </a>
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/stamina-file">
+    <img src="https://i.postimg.cc/6qvJFTpF/stamina.jpg" alt="Stamina" width="200" />
+  </a>
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/starvation-file">
+    <img src="https://i.postimg.cc/Nj2dsRRg/starvation.jpg" alt="Starvation" width="200" />
+  </a>
+  <a href="https://github.com/mdsotoke/unreal-engine-stuff/blob/main/energy-file">
+    <img src="https://i.postimg.cc/2S3Cys0R/energy.jpg" alt="Energy" width="200" />
+  </a>
+</p>
+
+Click any image above to access the corresponding file or folder in this repository.
+
 ## Contributing  
 Contributions are welcome! If you want to add new features, fix bugs, or enhance the existing stamina system, feel free to create a pull request or open an issue to discuss.
 
 ## License  
 This repository is licensed under the [MIT License](LICENSE), allowing you to modify, distribute, and use the content for personal or commercial projects with proper attribution.
-
