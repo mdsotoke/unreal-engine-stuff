@@ -1,6 +1,6 @@
 # Unreal Engine Stamina Feature for Survival Mechanic  
 
-![stamina system](https://imgur.com/3WIXSsg)
+<a href="https://imgur.com/3WIXSsg"><img src="https://i.imgur.com/3WIXSsg.png" title="source: imgur.com" /></a>
 
 
 
