@@ -7,12 +7,7 @@ This repository contains Unreal Engine files that can be used to add a stamina f
 
 **Note:** This project is still in development, and I plan to add more features in the future.  
 
-## Installation  
-To use the files in this repository, you can clone it directly:
-
-git clone https://github.com/mdsotoke/unreal-engine-stuff.git
-
-
+## Installation 
 Then, open the Unreal Engine project files in your preferred version of UE5.
 
 ## Features  
